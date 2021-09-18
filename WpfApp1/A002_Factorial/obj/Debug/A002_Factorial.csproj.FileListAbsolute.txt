@@ -1,0 +1,15 @@
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.csprojAssemblyReference.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\MainWindow.g.cs
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\App.g.cs
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial_MarkupCompile.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial_MarkupCompile.lref
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\bin\Debug\A002_Factorial.exe.config
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\bin\Debug\A002_Factorial.exe
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\bin\Debug\A002_Factorial.pdb
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\MainWindow.baml
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.g.resources
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.Properties.Resources.resources
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.csproj.GenerateResource.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.exe
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A002_Factorial\obj\Debug\A002_Factorial.pdb

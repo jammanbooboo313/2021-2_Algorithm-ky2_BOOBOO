@@ -1,0 +1,16 @@
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.exe
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.deps.json
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.runtimeconfig.json
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.runtimeconfig.dev.json
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.dll
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\ref\A004_TowerofHanoi.dll
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\bin\Debug\net5.0\A004_TowerofHanoi.pdb
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.csprojAssemblyReference.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.AssemblyInfoInputs.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.AssemblyInfo.cs
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.dll
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\ref\A004_TowerofHanoi.dll
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.pdb
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\A004_TowerofHanoi\obj\Debug\net5.0\A004_TowerofHanoi.genruntimeconfig.cache

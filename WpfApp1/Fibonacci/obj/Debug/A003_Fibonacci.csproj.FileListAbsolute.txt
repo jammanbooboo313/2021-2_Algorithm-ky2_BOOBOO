@@ -1,0 +1,15 @@
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\A003_Fibonacci.csprojAssemblyReference.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\MainWindow.g.cs
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\App.g.cs
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci_MarkupCompile.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci_MarkupCompile.lref
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\MainWindow.baml
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci.g.resources
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\A003_Fibonacci.csproj.GenerateResource.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\A003_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\jamma\Documents\Visual Studio 2019\KYP\ky2\WpfApp1\Fibonacci\obj\Debug\Fibonacci.pdb
